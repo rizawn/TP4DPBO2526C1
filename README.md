@@ -1,9 +1,5 @@
 # TP4 DPBO 2026 — Sistem Manajemen Data Personil Rumah Sakit (PeopleData)
 
-Repositori Tugas Praktikum 4 (TP4) mata kuliah Desain dan Pemrograman Berorientasi Objek (DPBO), Program Studi Ilmu Komputer, Fakultas Pendidikan Matematika dan Ilmu Pengetahuan Alam, Universitas Pendidikan Indonesia, Tahun Ajaran 2025/2026.
-
----
-
 ## Janji
 
 Saya **Riza Wahyu Nugraha** dengan **NIM 2511421** mengerjakan **Tugas Praktikum 4** dalam mata kuliah **Desain dan Pemrograman Berorientasi Objek** untuk keberkahan-Nya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
