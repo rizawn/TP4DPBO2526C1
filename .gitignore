@@ -1,15 +1,26 @@
-# Byte-compiled / Object / Class files
+# Compiled Java class files
 *.class
-out/
-target/
-bin/
 
-# IntelliJ IDEA
-.idea/**/workspace.xml
-.idea/**/tasks.xml
-.idea/**/usage.statistics.xml
-.idea/**/shelf/
+# Build and output directories
+out/
+bin/
+build/
+target/
+
+# IntelliJ IDEA workspace & project files
+.idea/
+*.iml
+
+# Visual Studio Code & Assistant configs
+.vscode/
+.claude/
 
 # Operating System Files
 .DS_Store
 Thumbs.db
+desktop.ini
+
+# Log and temporary files
+*.log
+*.tmp
+*.bak
